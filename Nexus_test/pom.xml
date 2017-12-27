@@ -4,7 +4,7 @@
 
   <groupId>com.nagarro.example</groupId>
   <artifactId>Nexus_test</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <name>Nexus_test</name>
