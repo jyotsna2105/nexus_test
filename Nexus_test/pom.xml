@@ -33,7 +33,7 @@
    <snapshotRepository>
     <id>snapshots</id>
     <name>snapshots</name>
-    <url>http://localhost:8081/repository/SAMPLE/</url>
+    <url>http://localhost:8081/repository/Snapshot/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
