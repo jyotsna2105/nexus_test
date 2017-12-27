@@ -26,12 +26,12 @@
   
   <distributionManagement>
    <repository>
-      <id>releases</id>
-	  <name>releases</name>
+      <id>deployment</id>
+       <name>releases</name>
         <url>http://localhost:8081/repository/SAMPLE/</url>
    </repository>
    <snapshotRepository>
-    <id>snapshots</id>
+    <id>deployment</id>
     <name>snapshots</name>
     <url>http://localhost:8081/repository/Snapshot/</url>
   </snapshotRepository>
